@@ -6,7 +6,7 @@
 <br>
 <li> [serde](https://crates.io/crates/serde) - A framework for serializing and deserializing Rust data structures efficiently and generically.</li>
 <li> [serde_json](https://crates.io/crates/serde_json) - A JSON serialization and deserialization library for Rust.</li>
-
+<br>
 <p>To add these dependencies to your project, include the following in your `Cargo.toml` file:</p>
 
 ```toml
